@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://info.filg.uj.edu.pl/fibula"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Fibula - aktualności</title>
+ <link>http://info.filg.uj.edu.pl/fibula/pl/taxonomy/term/1/0</link>
+ <description></description>
+ <language>pl</language>
+<item>
+ <title>Odwiedzili nas</title>
+ <link>http://info.filg.uj.edu.pl/fibula/pl/content/odwiedzili-nas</link>
+ <description>&lt;p&gt;W ramach programu Erasmus przyjechał do Krakowa prof. Ezio Barbieri z Pawii (luty-marzec 2011), zajmujący się dyplomatyką i paleografią. Oprócz przeprowadzenia zajęć w Instytucie Filologii Romańskiej UJ i wykładu we Włoskim Instytucie Kultury, prof. Barbieri wykazał zainteresowanie rękopisami włoskimi z kolekcji opracowywanej przez grupę Fibula. Przyjrzał się kilku z nich, służąc paleograficznym wsparciem.&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/pl/content/odwiedzili-nas#comments</comments>
+ <category domain="http://info.filg.uj.edu.pl/fibula/pl/taxonomy/term/1">aktualności</category>
+ <pubDate>Mon, 04 Apr 2011 09:17:58 +0000</pubDate>
+ <dc:creator>romansos</dc:creator>
+ <guid isPermaLink="false">432 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://info.filg.uj.edu.pl/fibula"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Fibula - Noticias</title>
+ <link>http://info.filg.uj.edu.pl/fibula/es/taxonomy/term/110/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Finalización del proyecto</title>
+ <link>http://info.filg.uj.edu.pl/fibula/es/content/finalizacion-del-proyecto</link>
+ <description>&lt;p&gt;&lt;strong&gt;En abril de 2011, el proyecto fue terminado.&lt;/strong&gt;&lt;br /&gt;
+En el marco del proyecto se publicaron 3 libros, 6 números del newsletter intitulado &lt;em&gt;Fibula&lt;/em&gt; y descripciones (en las lenguas románicas y en inglés) de 467 manuscritos estudiados por el grupo de investigación que participó en el proyecto.&lt;/p&gt;
+</description>
+ <category domain="http://info.filg.uj.edu.pl/fibula/es/category/dzia%C5%82y/noticias">Noticias</category>
+ <pubDate>Mon, 02 May 2011 21:48:59 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">570 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>Publicaciones</title>
+ <link>http://info.filg.uj.edu.pl/fibula/es/content/publicaciones</link>
+ <description>&lt;p&gt;En la página web del Ministerio de Ciencia y Educación Superior, en la sección «Éxitos de los estudiosos», se ha publicado un artículo sobre nuestro proyecto.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot; title=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot;&gt;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;El artículo del servicio de la PAP:&lt;br /&gt;
+&lt;a href=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot; title=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot;&gt;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.p...&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/es/content/publicaciones#comments</comments>
+ <category domain="http://info.filg.uj.edu.pl/fibula/es/category/dzia%C5%82y/noticias">Noticias</category>
+ <pubDate>Fri, 15 Apr 2011 07:26:19 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">558 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>Actividades de divulgación</title>
+ <link>http://info.filg.uj.edu.pl/fibula/es/content/actividades-de-divulgaci%C3%B3n</link>
+ <description>&lt;p&gt;En el marco del proyecto, hasta marzo de 2011 se organizaron 35 seminarios de divulgación científica en la región de Małopolska, en diversos centros culturales e instituciones educativas. En muchos casos los seminarios han incitado a los participantes a profundizar sus conocimientos sobre los manuscritos románicos. Se publicaron también artículos acerca del proyecto. Una de las publicaciones está disponible en &lt;a href=&quot;http://kangur.uek.krakow.pl/biblioteka/biuletyn/Old2/index.php?Strona=Art&amp;amp;Wybor=33&amp;amp;Art=003&quot;&gt;la página web de la  Biblioteca Central de la Academia de Economía de Cracovia&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/es/content/actividades-de-divulgaci%C3%B3n#comments</comments>
+ <category domain="http://info.filg.uj.edu.pl/fibula/es/category/dzia%C5%82y/noticias">Noticias</category>
+ <pubDate>Fri, 15 Apr 2011 07:18:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">557 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://info.filg.uj.edu.pl/fibula"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Fibula - Actualités</title>
+ <link>http://info.filg.uj.edu.pl/fibula/fr/taxonomy/term/4/0</link>
+ <description></description>
+ <language>fr</language>
+<item>
+ <title>La fin du projet</title>
+ <link>http://info.filg.uj.edu.pl/fibula/fr/content/la-fin-du-projet-0</link>
+ <description>&lt;p&gt;&lt;strong&gt;En avril 2011, le projet a été terminé.&lt;/strong&gt;&lt;br /&gt;
+Ses résultats sont les suivants : 3 livres, 6 numéros de newsletter &lt;em&gt;Fibula&lt;/em&gt; et les descriptions (en langues romanes et en anglais) de 467 manuscrits étudiés dans le cadre du projet.&lt;/p&gt;
+</description>
+ <category domain="http://info.filg.uj.edu.pl/fibula/fr/taxonomy/term/4">Actualités</category>
+ <pubDate>Sun, 03 Apr 2011 22:10:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">411 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>Activités de vulgarisation</title>
+ <link>http://info.filg.uj.edu.pl/fibula/fr/content/activit%C3%A9s-de-vulgarisation</link>
+ <description>&lt;p&gt;Dans le cadre du projet, jusqu’au mois de mars 2011, nous avons réalisé 35 séminaires pour le large public de la voïevodie de la Petite Pologne, dans diverses institutions culturelles et didactiques. Très souvent, grâce aux séminaires, les participants se sont lancés à des recherches individuelles pour approfondir leur savoir sur les manuscrits romans ou bien ont écrit des articles à notre sujet, par exemple sur le site internet de la Bibliothèque Générale de l’Académie Economique de Cracovie.&lt;/p&gt;
+</description>
+ <category domain="http://info.filg.uj.edu.pl/fibula/fr/taxonomy/term/4">Actualités</category>
+ <pubDate>Wed, 30 Mar 2011 09:50:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">369 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>On a écrit sur nous</title>
+ <link>http://info.filg.uj.edu.pl/fibula/fr/content/ecrit-sur-nous</link>
+ <description>&lt;p&gt;Sur le site internet du Ministère de la Recherche et de l’Enseignement Supérieur, dans la section : «&amp;nbsp;les succès des savants&amp;nbsp;» :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot; title=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot;&gt;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;article provenant du service de PAP:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot; title=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot;&gt;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.p...&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://info.filg.uj.edu.pl/fibula/fr/taxonomy/term/4">Actualités</category>
+ <pubDate>Wed, 30 Mar 2011 09:37:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">368 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+</channel>
+</rss>

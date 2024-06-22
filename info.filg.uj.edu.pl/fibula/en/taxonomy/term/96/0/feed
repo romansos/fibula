@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://info.filg.uj.edu.pl/fibula"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Fibula - News</title>
+ <link>http://info.filg.uj.edu.pl/fibula/en/taxonomy/term/96/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The end of the project</title>
+ <link>http://info.filg.uj.edu.pl/fibula/en/content/end-project</link>
+ <description>&lt;p&gt;&lt;strong&gt;In April 2011 the project has been completed.&lt;/strong&gt;&lt;br /&gt;
+As a result 3 books, 6 &lt;em&gt;Fibula&lt;/em&gt; newsletter issues and 467 scientific descriptions (in Romance languages and in English) have been published.&lt;/p&gt;
+</description>
+ <category domain="http://info.filg.uj.edu.pl/fibula/en/category/dzia%C5%82y/news">News</category>
+ <pubDate>Mon, 02 May 2011 13:57:56 +0000</pubDate>
+ <dc:creator>romansos</dc:creator>
+ <guid isPermaLink="false">569 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>Press review</title>
+ <link>http://info.filg.uj.edu.pl/fibula/en/content/press-review</link>
+ <description>&lt;p&gt;An article on our project has been published in the website of the Polish Minsitry of Science and Higher Education, in the section &quot;Success stories&quot;:  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot; title=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot;&gt;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The article published by the Polish Press Agency (PAP):&lt;br /&gt;
+&lt;a href=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot; title=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot;&gt;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.p...&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/en/content/press-review#comments</comments>
+ <category domain="http://info.filg.uj.edu.pl/fibula/en/category/dzia%C5%82y/news">News</category>
+ <pubDate>Tue, 05 Apr 2011 16:15:46 +0000</pubDate>
+ <dc:creator>romansos</dc:creator>
+ <guid isPermaLink="false">455 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>Information and dissemination</title>
+ <link>http://info.filg.uj.edu.pl/fibula/en/content/information-and-dissemination</link>
+ <description>&lt;p&gt;Within the project, from 2008 to march 2011 35 meetings-seminars were organized in Małopolska region. During the seminars, prepared for the dissemination and information purposes, the members of our team presented the overall history of the collection and some specific cases of interesting manuscripts providing a creative stimulus to participants. Sometimes inspiring articles like this one (in Polish) &lt;a href=&quot;http://kangur.uek.krakow.pl/biblioteka/biuletyn/Old2/index.php?Strona=Art&amp;amp;Wybor=33&amp;amp;Art=003&quot;&gt; in the website of the Library of the Economic University of Cracow&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/en/content/information-and-dissemination#comments</comments>
+ <category domain="http://info.filg.uj.edu.pl/fibula/en/category/dzia%C5%82y/news">News</category>
+ <pubDate>Mon, 04 Apr 2011 20:30:20 +0000</pubDate>
+ <dc:creator>romansos</dc:creator>
+ <guid isPermaLink="false">453 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+</channel>
+</rss>

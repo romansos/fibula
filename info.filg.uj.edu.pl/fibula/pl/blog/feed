@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://info.filg.uj.edu.pl/fibula"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Fibula blogs</title>
+ <link>http://info.filg.uj.edu.pl/fibula/pl/blog</link>
+ <description></description>
+ <language>pl</language>
+<item>
+ <title>Odwiedzili nas</title>
+ <link>http://info.filg.uj.edu.pl/fibula/pl/content/odwiedzili-nas</link>
+ <description>&lt;p&gt;W ramach programu Erasmus przyjechał do Krakowa prof. Ezio Barbieri z Pawii (luty-marzec 2011), zajmujący się dyplomatyką i paleografią. Oprócz przeprowadzenia zajęć w Instytucie Filologii Romańskiej UJ i wykładu we Włoskim Instytucie Kultury, prof. Barbieri wykazał zainteresowanie rękopisami włoskimi z kolekcji opracowywanej przez grupę Fibula. Przyjrzał się kilku z nich, służąc paleograficznym wsparciem.&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/pl/content/odwiedzili-nas#comments</comments>
+ <category domain="http://info.filg.uj.edu.pl/fibula/pl/taxonomy/term/1">aktualności</category>
+ <pubDate>Mon, 04 Apr 2011 09:17:58 +0000</pubDate>
+ <dc:creator>romansos</dc:creator>
+ <guid isPermaLink="false">432 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>Napisali o nas</title>
+ <link>http://info.filg.uj.edu.pl/fibula/pl/node/46</link>
+ <description>&lt;p&gt;Na stronie Ministerstwa Nauki i Szkolnictwa Wyższego, w sekcji Sukcesy uczonych, pojawił się artykuł o naszym projekcie.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot; title=&quot;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/naukowcy-odkrywaja-tajemnice-romanskiej-czesci-berlinki/&quot;&gt;http://www.nauka.gov.pl/nauka/sukcesy-uczonych/sukcesy-uczonych/artykul/...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artykuł pochodzi z serwisu PAP:&lt;br /&gt;
+&lt;a href=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot; title=&quot;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.pl&amp;amp;_PageID=1&amp;amp;s=szablon.depesza&amp;amp;dz=szablon.depesza&amp;amp;dep=376217&amp;amp;data=&amp;amp;lang=PL&amp;amp;_CheckSum=-980359893&quot;&gt;http://www.naukapolska.pap.pl/palio/html.run?_Instance=cms_naukapl.pap.p...&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/pl/node/46#comments</comments>
+ <pubDate>Thu, 07 Oct 2010 17:13:15 +0000</pubDate>
+ <dc:creator>romansos</dc:creator>
+ <guid isPermaLink="false">46 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+<item>
+ <title>Inne publikacje</title>
+ <link>http://info.filg.uj.edu.pl/fibula/pl/node/7</link>
+ <description>&lt;p&gt;Inne publikacje grupy Fibula.&lt;/p&gt;
+</description>
+ <comments>http://info.filg.uj.edu.pl/fibula/pl/node/7#comments</comments>
+ <pubDate>Sat, 21 Mar 2009 15:46:10 +0000</pubDate>
+ <dc:creator>romansos</dc:creator>
+ <guid isPermaLink="false">7 at http://info.filg.uj.edu.pl/fibula</guid>
+</item>
+</channel>
+</rss>
